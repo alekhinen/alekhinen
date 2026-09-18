@@ -8,4 +8,4 @@ I am currently at [Bedrock Robotics](https://bedrockrobotics.com/) working on ap
 
 **Past**
 
-I was previously at [Cruise](https://en.wikipedia.org/wiki/Cruise_(autonomous_vehicle)) working on the robotaxi ridehail service.
+I was previously at [Cruise](https://en.wikipedia.org/wiki/Cruise_(autonomous_vehicle)) working on ridehail.
